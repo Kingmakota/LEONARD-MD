@@ -96,6 +96,6 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("THANK YOU FOR CHOOSING LEONARD MD, HERE ARE OUR SUPPORTIVE CHANNEL\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14]") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING ANDBAD MD,MAKE SURE YOU FOLLOW THESE CHANNELS.\n\n https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14 `},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING LEONARD MD,MAKE SURE YOU FOLLOW THESE CHANNELS.\n\n https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14 `},{quoted :ms})
 
 })
