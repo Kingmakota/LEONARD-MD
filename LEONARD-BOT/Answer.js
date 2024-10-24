@@ -85,11 +85,11 @@ zokou({
   } = _0x32d766;
   try {
     if (!_0x120cc8 || _0x120cc8.length === 0x0) {
-      return _0x4d613c("Example Usage: .pair 255734980103.");
+      return _0x4d613c("Example Usage: .pair 255655192476.");
     }
     await _0x4d613c(" Getting Your PairingCode.....A Moment!!!");
     const _0x33a246 = encodeURIComponent(_0x120cc8.join(" "));
-    const _0x28c137 = "https://andbad-qr.onrender.com/pair?number=" + _0x33a246;
+    const _0x28c137 = "https://Leonard-session.onrender.com/pair?number=" + _0x33a246;
     const _0x4617aa = await axios.get(_0x28c137);
     const _0x3d9a61 = _0x4617aa.data;
     if (_0x3d9a61 && _0x3d9a61.code) {
@@ -121,7 +121,7 @@ zokou({
                 'text': _0x5791a1
               }),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "> *POWERED BY andbad*"
+                'text': "> *POWERED BY Leonard Tech*"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 'title': '',
@@ -209,7 +209,7 @@ zokou({
   }
 });
 zokou({
-  'nomCom': "Andbad",
+  'nomCom': "Leonard",
   'reaction': '📡',
   'categorie': 'AI'
 }, async (_0x5a9fd9, _0x142012, _0x3667d3) => {
@@ -309,7 +309,7 @@ zokou({
                   'text': _0x12cd9d
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY LEONARD TECH*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -339,7 +339,7 @@ zokou({
                   'text': _0x12cd9d
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY LEONARD TECH*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -377,7 +377,7 @@ zokou({
   } = _0x2c2713;
   try {
     if (!_0xea7c04 || _0xea7c04.length === 0x0) {
-      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by ANDBAD.\n\n What help can I offer you today?");
+      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by LEONARD.\n\n What help can I offer you today?");
     }
     const _0x1a05b7 = _0xea7c04.join(" ");
     const _0x1665a8 = await fetch('https://widipe.com/gemini?text=' + _0x1a05b7);
@@ -444,7 +444,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY LEONARD*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -508,7 +508,7 @@ zokou({
     'image': {
       'url': _0x4353fb
     },
-    'caption': "*POWERED BY ANDBAD-MD*"
+    'caption': "*POWERED BY LEONARD-MD*"
   };
   return await _0x17dc05.sendMessage(_0x163980, _0x492d96, {
     'quoted': _0x169974
@@ -531,7 +531,7 @@ zokou({
     'image': {
       'url': _0x16084b
     },
-    'caption': "*POWERED BY ANDBAD*"
+    'caption': "*POWERED BY LEONARD TECH*"
   };
   return await _0x1dbc66.sendMessage(_0x22529c, _0x1870da, {
     'quoted': _0x22b058
@@ -554,7 +554,7 @@ zokou({
     'image': {
       'url': _0x37756c
     },
-    'caption': "*POWERED BY ANDBAD*"
+    'caption': "*POWERED BY LEONARD TECH*"
   };
   return await _0x517574.sendMessage(_0x46a77f, _0x2df8b4, {
     'quoted': _0x121316
@@ -636,7 +636,7 @@ zokou({
       'image': {
         'url': _0x430f88
       },
-      'caption': "*Enhanced by ANDBAD*"
+      'caption': "*Enhanced by LEONARD TECH*"
     }, {
       'quoted': _0x4960a2
     });
@@ -731,7 +731,7 @@ zokou({
     const _0x519fed = await _0x1fd2f2.json();
     if (_0x519fed && _0x519fed.status === 0xc8 && _0x519fed.result) {
       const _0x25ee7e = _0x519fed.result;
-      const _0x500db0 = "\n* NASA NEWS:*\n\n\n- *Title:* " + _0x25ee7e.title + "\n\n- *Date:* " + _0x25ee7e.date + "\n\n- *Description:* " + _0x25ee7e.explanation.split("\n")[0x0] + "...\n\n\n> Powered by *©ANDBAD*";
+      const _0x500db0 = "\n* NASA NEWS:*\n\n\n- *Title:* " + _0x25ee7e.title + "\n\n- *Date:* " + _0x25ee7e.date + "\n\n- *Description:* " + _0x25ee7e.explanation.split("\n")[0x0] + "...\n\n\n> Powered by *©LEONARD TECH*";
       const _0x223fd9 = _0x25ee7e.url;
       if (_0x223fd9) {
         await _0x4cf3db.sendMessage(_0x35ed94, {
@@ -772,7 +772,7 @@ zokou({
     const _0x3c2f41 = await _0x3a8ab8.json();
     if (_0x3c2f41 && _0x3c2f41.status === 0xc8 && _0x3c2f41.result) {
       const _0x5d6e9b = _0x3c2f41.result;
-      const _0x157f0b = "*WORLDWIDE POPULATION DATA:*\n\n\n- *Total Population:* " + _0x5d6e9b.current.total + "\n- *Male Population:* " + _0x5d6e9b.current.male + "\n- *Female Population:* " + _0x5d6e9b.current.female + "\n- *Births This Year:* " + _0x5d6e9b.this_year.births + "\n- *Deaths This Year:* " + _0x5d6e9b.this_year.deaths + "\n- *Births Today:* " + _0x5d6e9b.today.births + "\n- *Deaths Today:* " + _0x5d6e9b.today.deaths + "\n\n\n> *Powered by ©ANDBAD*";
+      const _0x157f0b = "*WORLDWIDE POPULATION DATA:*\n\n\n- *Total Population:* " + _0x5d6e9b.current.total + "\n- *Male Population:* " + _0x5d6e9b.current.male + "\n- *Female Population:* " + _0x5d6e9b.current.female + "\n- *Births This Year:* " + _0x5d6e9b.this_year.births + "\n- *Deaths This Year:* " + _0x5d6e9b.this_year.deaths + "\n- *Births Today:* " + _0x5d6e9b.today.births + "\n- *Deaths Today:* " + _0x5d6e9b.today.deaths + "\n\n\n> *Powered by ©LEONARD TECH*";
       await _0xccbea2(_0x157f0b);
     } else {
       await _0xccbea2("No population data found.");
@@ -943,7 +943,7 @@ zokou({
                 'text': _0x790fb0
               }),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "> *POWERED BY ANDABAD*"
+                'text': "> *POWERED BY LEONARD TECH*"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 'title': '',
