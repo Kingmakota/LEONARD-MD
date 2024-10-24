@@ -1,9 +1,9 @@
 {
   "name":"ANDBAD MD",
-  "description":"Deploy now your bot, ANDBAD was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "description":"Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/L4U2K76.jpeg",
-  "repository":"https://github.com/Mrandbad/ANDBAD-MD-V1",
+  "logo":"https://files.catbox.moe/ps8cqh.jpg",
+  "repository":"https://github.com/Kingmakota/LEONARD-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,16 +35,16 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" ANDBAD MD",
+      "value":" LEONARD MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/L4U2K76.jpeg",
+      "value":"https://files.catbox.moe/ps8cqh.jpg",
       "required":false
-       
+
      },
     "PUBLIC_MODE":
     {
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ANDBAD TEAM SUPPORT"
+    "value": "leonard team"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255768318788,255734980103"
+    "value": "255655192576"
   },
     "WARN_COUNT":
   {
